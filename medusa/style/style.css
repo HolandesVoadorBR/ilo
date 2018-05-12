@@ -1,0 +1,54 @@
+*{
+    background-color: #997a8d;
+    font-family: 'PT Sans', sans-serif;
+}
+
+body {
+    background-color: #997a8d;
+    font-family: 'PT Sans', sans-serif;
+    color: aliceblue;
+}
+/*MEXENDOOO!*/
+.centralizar {
+    float: none;
+    margin: 0 auto;
+}
+/*end MEXENDOOO!*/
+.textoCentralizado{
+    text-align: center;
+}
+
+.rodafoot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+/*Uso exclusivo da <p> do texto de introdução*/
+.textoHomePage{
+    margin-top: 60px;
+}
+/*Titulo*/
+h1 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/*Classes para mudar tamanho*/
+.biggur{
+    font-size: xx-large;
+}
+
+.smaller{
+    height: 30px;
+    width: 40px;
+}
+/*end fontsize*/
+
+/*Classe de uso exclusivo da area de login*/
+.marcadorLogin{
+    background-color: #deb0cc;
+    padding: 214px;
+    margin-right: 222px;
+    margin-left: 225px; 
+}
