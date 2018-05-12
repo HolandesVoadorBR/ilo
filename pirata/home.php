@@ -11,14 +11,11 @@
 <body>
     
     <?php
-    // EM CONSTRUÇÃO 
         session_start();
 
-        if(!isset($_SESSION['email'])){
-        echo "Foi";
-        $logado = $_SESSION['email'];
-        echo $logado;
+
 
     ?>
+
 </body>
 </html>
